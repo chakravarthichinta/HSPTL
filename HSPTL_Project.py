@@ -37,7 +37,7 @@ from datetime import datetime
 # User data
 name = "John reddy"
 age = 28
-phone_number = "123456999"
+phone_number = "123456999   "
 email_id = "johndoe@example.com"
 
 # Create file name
